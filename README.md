@@ -127,22 +127,23 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Lubasi Andrew Sipangule
+**Student ID:** 2022065786
+**Design Theme:** Sky blue and Minimalist
 
 ### CSS Techniques Used
-- [ ] CSS Custom Properties
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Media Queries
-- [ ] Other: _______________
+- [X] CSS Custom Properties
+- [X] Flexbox
+- [X] CSS Grid
+- [X] Media Queries
+- [X] Other: CSS Variables, Transitions, and Responsive Design
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+I initially faced challenges due to my lack of knowledge and desire to create a consistent design. After the 3rd Lab, consultation and resreach alongside tutorials
+my overall knowledge improved. Spacing was a trial and error, as well as learning how to create  responsive design. I tried to make use of CSS variables to make the code as modular as possible.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+Self, Associated coleagues.
 
 ---
 
