@@ -112,16 +112,16 @@ The following are checked automatically on each push:
 
 Before submitting, verify:
 
-- [ ] All 4 sections are complete (Home, About, Projects, Contact)
-- [ ] HTML validates with no errors
-- [ ] CSS uses custom properties (variables)
-- [ ] Flexbox is used for at least one component
-- [ ] CSS Grid is used for at least one component
-- [ ] Site is responsive at all breakpoints
-- [ ] All images have alt text
-- [ ] Form inputs have labels
-- [ ] Screenshots added to `/screenshots` folder
-- [ ] README updated with your information
+- [X] All 4 sections are complete (Home, About, Projects, Contact)
+- [X] HTML validates with no errors
+- [X] CSS uses custom properties (variables)
+- [X] Flexbox is used for at least one component
+- [X] CSS Grid is used for at least one component
+- [X] Site is responsive at all breakpoints
+- [X] All images have alt text
+- [X] Form inputs have labels
+- [X] Screenshots added to `/screenshots` folder
+- [X] README updated with your information
 
 ---
 
